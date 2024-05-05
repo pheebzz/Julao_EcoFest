@@ -5,13 +5,15 @@
 body{
     color: white;
     background-color:#3D4654;
-    font-family: "Montserrat", sans-serif;
+    font-family: "bicyclette", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 nav {
     color: white;
-    font-family: sneakers-pro, sans-serif;
+    font-family: "bicyclette", sans-serif;
+    font-weight: 100;
     font-style: normal;
-    font-weight: 500;
     text-transform:capitalize;
     text-decoration: none;
     display: flex;
@@ -23,9 +25,9 @@ nav {
 }
 nav a{
     color:white;
-    font-family: sneakers-pro, sans-serif;
-    font-style:normal;
-    font-weight: 100;
+    font-family: "bicyclette", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 24px;
     text-decoration: none;
     margin-right:15%;
@@ -36,9 +38,9 @@ nav a:hover{
 }
 h1{
     color:white;
-    font-family: sneakers-pro, sans-serif;
-    font-style:normal;
+    font-family: "bicyclette", sans-serif;
     font-weight: 500;
+    font-style: normal;
     font-size:30px;
     background-color: #F2507B;
     text-align:center;
@@ -87,9 +89,9 @@ h1{
 }
 h2{
     color:#26BF94;
-    font-family: sneakers-pro, sans-serif;
-    font-style:normal;
-    font-weight: 500;
+    font-family: "bicyclette", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     text-align:center;
     margin-right:15%;
     margin-bottom: 20px;
