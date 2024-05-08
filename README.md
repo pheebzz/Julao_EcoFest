@@ -7,7 +7,7 @@ EcoFest is a three-day festival designed for environmentally-conscious individua
 
 The festival aims to raise awareness about the affects of climate change and promote simple, everyday eco-friendly living practices. Proceeds from the event will support The Nature Conservancy, a California based non-profit organization dedicated to promoting carbon neutrality and sustainability.
 
-It's crucial to support environmental sustainability to reduce our carbon footprint, combat climate change, and preserve our planet for future generations. I believe as young adults entering the adult world and being independent in the world is overwhelming and expensive, even so our daily practices within ours means such as simply as using our screens and devices, can affect our planets health over time.
+It's crucial to support environmental sustainability to reduce our carbon footprint and  combat climate change. This matter is significamtly important because our daily actions affect the manner in which we preserve our planet for future generations. I believe as young adults entering the adult world and being independent in the world is overwhelming and expensive, even so our daily practices within ours means such as simply as using our screens and devices, can affect our planets health over time.
 
 EcoFest will take place from May 25th to May 27th at Golden Gate Park, featuring a series of events aimed at promoting sustainable living and environmental conservation. The festival will kick off with a "Green Future Seminar," followed by a "Zero-Waste Market" and a "Green Tech Expo" on the second day. The festival will conclude with a "Carbon-Neutral Concert" and a "Community Clean-Up" event.
 # technical overview
@@ -31,6 +31,12 @@ Brand Guide created in InDesign
 ![Brand Guide](./img/brandguidetypogr.jpg)
 ![Brand Guide](./img/brandguideslayout.jpg)
 
+Icon hand-sketched then curated in Adobe Illustrator
+![Logo sketch](./img/ecofestsketch.png)
+![Logo art](./img/ecofestlogoicon.png)
+
+Preview item asset mockup constructed in Adobe Photoshop
+![Physical asset](./img/efpinmockup.png)
 
 
 # acknowledgement
