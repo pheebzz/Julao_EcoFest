@@ -42,4 +42,5 @@ Preview item asset mockup constructed in Adobe Photoshop
 # acknowledgement
 
 Thank you to the Nature Conservancy for collaborating with me to create this festival and website. Click the link below for information about the organization:
+
 https://www.nature.org/en-us/
