@@ -110,6 +110,33 @@ h2 {
     margin-bottom: 10px;
 }
 
+.important-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.important-section img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.important-section h4 {
+    color: #0D2601;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.important-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.important-section ul li {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
 footer {
     background-color: #265902;
     text-align: right;
