@@ -38,6 +38,9 @@ Icon hand-sketched then curated in Adobe Illustrator
 Preview item asset mockup constructed in Adobe Photoshop
 ![Physical asset](./img/efpinmockup.png)
 
+All photo references were found on Adobe Stock images
+https://stock.adobe.com/
+
 
 # acknowledgement
 
