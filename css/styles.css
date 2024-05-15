@@ -80,10 +80,10 @@ h4 {
     font-weight: 400;
     margin-bottom: 20px;
     margin-top:60px;
+    margin-left:20px;
     padding: 5px;
     text-align: center;
     color:#CED979;
-    
 }
 h5{
     color: #0D2601;
@@ -117,7 +117,7 @@ h5{
     margin-bottom: 20px;
     margin-top: 40px;
     margin-right: 10px;
-    margin-left: 10px;
+    margin-left: 50px;
 }
 
 .column img {
@@ -125,6 +125,17 @@ h5{
     margin: 0 auto;
     max-width: 100%;
     margin-bottom: 20px;
+    margin-left: -55px;
+}
+.column h4 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-top:60px;
+    margin-left:20px;
+    padding: 5px;
+    text-align: center;
+    color:#CED979;
 }
 
 .column h5 {
