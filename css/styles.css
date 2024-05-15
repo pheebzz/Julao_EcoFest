@@ -73,9 +73,9 @@ h2 {
 }
 
 .column {
-    flex: 0 0 42%;
+    flex: 0 0 32%;
     text-align: center;
-    margin-bottom: 20px;
+    margin: 0 10px;
 }
 
 .column img {
@@ -183,6 +183,7 @@ footer a {
     color: white;
 }
 
+/* Media Queries */
 @media screen and (max-width: 768px) {
     .flex-container {
         flex-direction: column;
@@ -191,6 +192,7 @@ footer a {
     .column {
         flex: 1;
         margin-bottom: 40px;
+        margin: 0 20px;
     }
 
     .column img {
