@@ -146,11 +146,10 @@ h5{
 .column ul li {
     margin-bottom: 10px;
 }
-
 .important-section {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    align-items: flex-start; /* Align items to the top */
     margin-top: 20px;
 }
 
@@ -163,7 +162,7 @@ h5{
     max-width: 100%;
 }
 
-.important-section h4 {
+.important-section .left-column h4 {
     color: #0D2601;
     font-weight: 400;
     font-size: 25px;
