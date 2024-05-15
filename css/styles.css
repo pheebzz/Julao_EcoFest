@@ -205,7 +205,7 @@ h5{
 
 .merch-info {
     flex: 1;
-    padding-right: 10px;
+    padding-left: 10px;
 }
 
 .merch-image {
@@ -215,8 +215,9 @@ h5{
 
 .merch-image img {
     max-width: 100%;
-    margin-right: 50px;
+    margin-right: 20px;
 }
+
 
 footer {
     background-color: #265902;
