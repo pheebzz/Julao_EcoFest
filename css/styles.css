@@ -68,18 +68,18 @@ h2 {
 
 .flex-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin-top: 20px;
 }
 
 .column {
-    flex: 0 0 calc(33.33% - 20px);
+    flex: 0 0 33.33%; 
     text-align: center;
 }
 
 .column img {
-    display: inline-block;
-    margin-bottom: 10px;
+    display: block;
+    margin: 0 auto; 
     max-width: 100%;
 }
 
@@ -134,7 +134,29 @@ h2 {
 
 .important-section ul li {
     margin-bottom: 10px;
-    text-align: left;
+    text-align: center;
+}
+
+.merch-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.merch-info {
+    flex: 1;
+    padding-right: 10px;
+}
+
+.merch-image {
+    flex: 1;
+    text-align: center;
+}
+
+.merch-image img {
+    max-width: 100%;
+    margin-right: 50px;
 }
 
 footer {
