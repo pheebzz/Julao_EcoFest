@@ -121,25 +121,22 @@ h2 {
     justify-content: center;
     align-items: center;
     margin-top: 20px;
-    margin-left: 130px;
 }
 
 .important-section .left-column {
     flex: 1;
-    margin-right:20px;
+    padding-right: 20px;
 }
 
 .important-section .right-column img {
     max-width: 100%;
-    margin-right:100px;
 }
 
 .important-section h4 {
     color: #0D2601;
     font-weight: 400;
     font-size: 25px;
-    margin-top: -160px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     text-align: left;
 }
 
@@ -185,3 +182,39 @@ footer {
 footer a {
     color: white;
 }
+
+@media screen and (max-width: 768px) {
+    .flex-container {
+        flex-direction: column;
+    }
+
+    .column {
+        flex: 1;
+        margin-bottom: 40px;
+    }
+
+    .column img {
+        max-width: 80%;
+    }
+
+    .important-section .left-column,
+    .important-section .right-column {
+        flex: 1;
+        text-align: center;
+    }
+
+    .important-section .left-column {
+        padding-right: 0;
+        padding-bottom: 20px;
+    }
+
+    .merch-container {
+        flex-direction: column;
+    }
+
+    .merch-image img {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
+
