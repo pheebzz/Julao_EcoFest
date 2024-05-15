@@ -40,6 +40,7 @@ Preview item asset mockup constructed in Adobe Photoshop
 
 All photo references were found on Adobe Stock images
 https://stock.adobe.com/
+Keywords searched: eco-friendly, sustainable, community cleanup, festival
 
 
 # acknowledgement
