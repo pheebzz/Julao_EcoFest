@@ -112,10 +112,12 @@ h5{
 }
 
 .column {
-    flex: 0 0 42%;
+    flex: 0 0 calc(33.33% - 20px);
     text-align: center;
     margin-bottom: 20px;
     margin-top: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .column img {
@@ -123,26 +125,6 @@ h5{
     margin: 0 auto;
     max-width: 100%;
     margin-bottom: 20px;
-    margin-left: -15px;
-}
-
-.column h4 {
-    color: #0D2601;
-    font-weight: 500;
-    font-size: 30px;
-    margin-bottom: 20px;
-    margin-left: 80px;
-    margin-top: -5px;
-    text-align: left;
-}
-
-.column p {
-    margin: 30px 0;
-    margin-left: 60px;
-    margin-bottom: 40px;
-    padding: 0 20px;
-    text-align: left;
-    font-size: 17px;
 }
 
 .column h5 {
@@ -158,6 +140,22 @@ h5{
 .column ul li {
     margin-bottom: 10px;
 }
+
+.column h4 {
+    color: #0D2601;
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: -5px;
+    text-align: left;
+}
+
+.column p {
+    margin: 20px 0;
+    padding: 0 20px;
+    text-align: left;
+}
+
 .important-section {
     display: flex;
     justify-content: space-between;
