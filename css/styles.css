@@ -32,13 +32,14 @@ nav a {
     font-style: normal;
     font-size: 24px;
     text-decoration: none;
-    margin-right: 15%;
+    margin: -2px 150px;
 }
 
 nav a:hover {
     color: #CED979;
     text-decoration: underline;
 }
+
 
 header {
     text-align: center;
@@ -60,7 +61,7 @@ img {
 
 h1 {
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 20px;
     padding: 5px;
     text-align: center;
@@ -88,7 +89,7 @@ h5{
 
 .image-container img {
     max-width: 100%;
-    margin: 0 10px; /* Adjust margin as needed */
+    margin: 0 0px;
 }
 
 .image-container img:nth-child(2) {
@@ -105,6 +106,7 @@ h5{
     flex: 0 0 42%;
     text-align: center;
     margin-bottom: 20px;
+    margin-top: 40px;
 }
 
 .column img {

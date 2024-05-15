@@ -14,24 +14,26 @@ nav {
     font-family: "bicyclette", sans-serif;
     font-weight: 100;
     font-style: normal;
-    text-transform:capitalize;
+    text-transform: capitalize;
     text-decoration: none;
     display: flex;
-    text-align: right;
-    background:linear-gradient(45deg,#048ABF,#CED979);
+    justify-content: center;
+    background: linear-gradient(45deg, #048ABF, #CED979);
     padding: 5px 2px 2px 8px;
-    width:100%;
+    width: 100%;
 }
-nav a{
-    color:white;
+
+nav a {
+    color: white;
     font-family: "bicyclette", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 24px;
     text-decoration: none;
-    margin-right:15%;
+    margin: -2px 150px;
 }
-nav a:hover{
+
+nav a:hover {
     color: #CED979;
     text-decoration: underline;
 }
